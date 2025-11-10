@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFK_BOT", 
+    "username": "Messi", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "hithimlermynamemessi.aternos.me", 
-    "port": 27492,   
+    "ip": "Mc_group.aternos.me", 
+    "port": 21315,   
     "version": "1.18.2"   
   },
 
