@@ -8,7 +8,8 @@
   "server": {
     "ip": "alonefriends31.aternos.me", 
     "port": 46093,   
-},
+    "version": "1.19"   
+  },
 
   "position": {
     "enabled": false,
